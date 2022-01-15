@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 import java.util.regex.*;
 public class regularExpnAssisted {
 	public static void main(String[] args) {

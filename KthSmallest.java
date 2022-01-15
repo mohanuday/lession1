@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 
 public class KthSmallest {
 	int kthSmallest(int arr[], int l, int r, int k) 

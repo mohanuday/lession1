@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 import java.io.*; 
 public class LinkedList {
 	Node head; // head of list 

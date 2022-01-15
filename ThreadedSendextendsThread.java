@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 
 public class ThreadedSendextendsThread {
     private String msg; 

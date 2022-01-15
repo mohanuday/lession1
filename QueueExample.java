@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 import java.util.Queue;
 public class QueueExample {
 	public static void main(String[] args) 

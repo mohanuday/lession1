@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileWriter;

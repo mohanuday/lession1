@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 
 public class MethodExecution {
 	public int multipynumbers(int a,int b) {

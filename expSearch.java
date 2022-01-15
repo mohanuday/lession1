@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 import java.util.Arrays;
 public class expSearch {
 	public static  void main(String[] args){

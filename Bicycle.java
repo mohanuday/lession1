@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 
 public class Bicycle {
 	public int gear; 

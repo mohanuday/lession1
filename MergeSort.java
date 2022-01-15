@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 
 public class MergeSort {
     void merge(int arr[], int l, int m, int r)

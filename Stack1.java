@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 
 public class Stack1 {
 	static final int MAX1 = 1000; 

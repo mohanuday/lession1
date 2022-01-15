@@ -1,4 +1,4 @@
-package Lession1;
+package Lesson1;
 
 public class RotateArray {
 	public void rotate(int[] nums, int k) {
